@@ -3,7 +3,7 @@
 <h1>SOCKS5 Proxy</h1>
 
 [![license](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
-[![go version](https://img.shields.io/github/go-mod/go-version/TuanKiri/socks5-server)](go.mod)
+[![go version](https://img.shields.io/github/go-mod/go-version/ezh0v/socks5-server)](go.mod)
 [![docker hub](https://img.shields.io/docker/pulls/tuankiri/socks5)](https://hub.docker.com/r/tuankiri/socks5)
 [![docker version](https://img.shields.io/docker/v/tuankiri/socks5)](https://hub.docker.com/r/tuankiri/socks5)
 [![docker size](https://img.shields.io/docker/image-size/tuankiri/socks5)](https://hub.docker.com/r/tuankiri/socks5)
@@ -12,7 +12,7 @@
 
 ## Overview
 
-SOCKS5 proxy server based on a package [socks5](https://github.com/TuanKiri/socks5).
+SOCKS5 proxy server based on a package [socks5](https://github.com/ezh0v/socks5).
 
 ## Features
 
@@ -81,7 +81,7 @@ TTLPacket=
 `linux/amd64`
 
 ```sh
-docker pull ghcr.io/tuankiri/socks5:latest
+docker pull ghcr.io/ezh0v/socks5:latest
 ```
 
 ## Docker Compose

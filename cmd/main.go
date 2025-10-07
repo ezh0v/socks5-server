@@ -10,7 +10,7 @@ import (
 
 	"github.com/caarlos0/env/v11"
 
-	"github.com/TuanKiri/socks5"
+	"github.com/ezh0v/socks5"
 )
 
 type config struct {
